@@ -32,7 +32,7 @@ further actions after accessing the “Secret”
 
 ### Process
 
-- Preparation and Goal SettingDefine Objective: The primary goal was to monitor the AWS Secrets Manager service, notify the security team of breaches, and block attackers from further actions.Identify Target: The system specifically targeted the protection of "Production Database Credentials".
+- Preparation and Goal Setting: The primary goal was to monitor the AWS Secrets Manager service, notify the security team of breaches, and block attackers from further actions.Identify Target: The system specifically targeted the protection of "Production Database Credentials".
 - Implementation of Detection Flows
 - Notification and Response Setup
 - Simulation and TestingExecution
