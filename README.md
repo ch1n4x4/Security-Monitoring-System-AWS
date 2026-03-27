@@ -44,4 +44,4 @@ further actions after accessing the “Secret”
 The outcome of the project was a successful implementation of an automated security system that both detected and neutralized a credential breach in real-time.
 
 ## Steps
-<a href = "https://github.com/ch1n4x4/Security-Monitoring-System-AWS/blob/main/Cloud_security_monitoring.pdf">Secure Architecture</a>
+<a href = "https://github.com/ch1n4x4/Security-Monitoring-System-AWS/blob/main/Cloud_security_monitoring.pdf">Cloud Security monitoring</a>
